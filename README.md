@@ -10,6 +10,6 @@ The only thing to install is a library used to colour the output
 `pip install -r requirements.txt`
 
 # Run
-Just run `python3 main,py`
+Just run `python3 main.py`
 
 
